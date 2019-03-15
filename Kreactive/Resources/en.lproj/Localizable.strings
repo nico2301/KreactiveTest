@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Kreactive
+
+  Created by perotin nicolas on 14/03/2019.
+  Copyright © 2019 perotin nicolas. All rights reserved.
+*/
+"master_title" = "Movies";
+"Genre" = "Genre";
+"Released" = "Released";
+"Runtime" = "Runtime";
+"Director" = "Director";
+"Actors" = "Actors";
+"Note" = "Note";
+"Languages" = "Language";
+"vote_rules" = "Vote for your 3 favorite movies.\nThe winning film will be revealed in a week";
+"start_button" = "Start";
+"network_error_label" = "Network error";
+"retry_button_title" = "Retry";
+"check_your_network_label" = "Check your internet connection.";
+"search_movies" = "Search movies";

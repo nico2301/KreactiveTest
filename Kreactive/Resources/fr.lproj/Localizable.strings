@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Kreactive
+
+  Created by perotin nicolas on 14/03/2019.
+  Copyright © 2019 perotin nicolas. All rights reserved.
+*/
+"master_title" = "Films";
+"Genre" = "Genre";
+"Released" = "Sortie";
+"Runtime" = "Durée";
+"Director" = "Réalisateur";
+"Actors" = "Acteurs";
+"Note" = "Note";
+"Languages" = "Langue";
+"vote_rules" = "Votez pour vos 3 films préférés.\nLe film gagnant sera révélé dans une semaine";
+"start_button" = "Commencez";
+"network_error_label" = "Erreur réseau";
+"retry_button_title" = "Réssayer";
+"check_your_network_label" = "Vérifier votre connexion internet";
+"search_movies" = "Rechercher des films";
